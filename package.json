@@ -1,0 +1,23 @@
+{
+  "name": "axios-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaladinge/axios-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaladinge/axios-example/issues"
+  },
+  "homepage": "https://github.com/Kaladinge/axios-example#readme",
+  "browserslist": [
+    "last 1 Chrome version"
+]
+}
